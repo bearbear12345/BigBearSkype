@@ -1,0 +1,18 @@
+{} Required; () Required; [] Optional
+Command list:
+  !adfly/!shorten - Shrink link using Adf.ly service
+    Usage: {command} (url)
+  !chat - Get chat group information
+    Usage: {command}
+  !get/!read - Reads response file. Type !listfiles to get available files
+    Usage: {command} (filename)
+  !github - Get GitHub user/repository information
+    Usage: {command} (user) [repository]
+  !help - Shows the help file (help.txt) (this)
+    Usage: {command}
+  !info - Shows the info file (info.txt)
+    Usage: {command}
+  !isup - Checks if an address is up
+    Usage: {command} (url)
+  !youtube/!yt - Get YouTube Video information
+    Usage: {command} (Video ID/Link)

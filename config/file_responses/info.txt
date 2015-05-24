@@ -1,0 +1,4 @@
+BearNet Bot Version 2.1b
+Author: Andrew Wong (S: skype:aw9292929296983244?chat )
+Email: featherbear@navhaxs.au.eu.org
+Type !help to get a list of available commands!
